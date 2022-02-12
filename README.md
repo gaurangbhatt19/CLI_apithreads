@@ -85,7 +85,13 @@ Elapsed Time: 0:00:00.123956
 Result: Passed
 ```
 ## Download
+
+Mac/Linux
+
 <a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.pyc" download>Download Mac/Linux File</a>
+
+Windows
+
 <a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.exe" download>Download Windows File</a>
 
 ## Authors
