@@ -5,7 +5,7 @@ This is a basic Python Cli app , specially made for developers to test their API
 
 This cli app is configured for GET and POST methods. To use this CLI app you need to pass some arguments.
 
-- [Windows] (https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.exe)
+
 
 
 ## Arguments
@@ -87,7 +87,9 @@ Response: {"login": "gaurangbhatt19", "id": 44087367, "node_id": "MDQ6VXNlcjQ0MD
 Elapsed Time: 0:00:00.123956
 Result: Passed
 ```
+## Download
 
+- [@Windows] (https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.exe)
 
 ## Authors
 
