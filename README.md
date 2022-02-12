@@ -95,3 +95,4 @@ Result: Passed
 
 - [@gaurangbhatt19](https://github.com/gaurangbhatt19)
 
+<a href="myFile.js" download>Click to Download</a>
