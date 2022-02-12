@@ -1,12 +1,9 @@
 
 # CLI APIThreads
 
-This is a basic Python Cli app , specially made for developers to test their APIs suing concurrent or delayed server hit from their own machine.
+This is a basic Python CLI app , specially made for developers to test their APIs suing concurrent or delayed server hit from their own machine.
 
 This cli app is configured for GET and POST methods. To use this CLI app you need to pass some arguments.
-
-
-
 
 ## Arguments
 
@@ -34,7 +31,7 @@ To run this project, you will need to pass some arguments related to api
 
  #   cli_apithreads.exe -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
   
-  For Mac:
+  For Mac/Linux:
   
  #   python cli_apithreads.pyc -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
 ```
@@ -47,7 +44,7 @@ Windows
 
 # cli_apithreads.exe -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
 
-Mac
+Mac/Linux
 
 # python cli_apithreads.pyc -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
 
@@ -88,11 +85,9 @@ Elapsed Time: 0:00:00.123956
 Result: Passed
 ```
 ## Download
-
-- [@Windows] (https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.exe)
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.pyc" download>Download Mac/Linux File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.exe" download>Download Windows File</a>
 
 ## Authors
 
 - [@gaurangbhatt19](https://github.com/gaurangbhatt19)
-
-<a href="myFile.js" download>Click to Download</a>
