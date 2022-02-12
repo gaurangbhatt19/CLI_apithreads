@@ -24,7 +24,7 @@ To run this project, you will need to pass some arguments related to api
 
 `-body`: File path to API body. Body file is in *.json format
 
-`-delay`: Add delay to API run value is in seconds. Defualt value is 0 .
+`-delay`: Add delay to API run value is in seconds. Default value is 0 .
 
 ## Syntax
 
