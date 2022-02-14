@@ -113,6 +113,8 @@ Response: {"login": "gaurangbhatt19", "id": 44087367, "node_id": "MDQ6VXNlcjQ0MD
 "gravatar_id": "", "url": "https://api.github.com/users/gaurangbhatt19", "html_url": "https://github.com/gaurangbhatt19", "followers_url": "https://api.github.com/users/gaurangbhatt19/followers", "following_url": "https://api.github.com/users/gaurangbhatt19/following{/other_user}", "gists_url": "https://api.github.com/users/gaurangbhatt19/gists{/gist_id}", "starred_url": "https://api.github.com/users/gaurangbhatt19/starred{/owner}{/repo}", "subscriptions_url": "https://api.github.com/users/gaurangbhatt19/subscriptions", "organizations_url": "https://api.github.com/users/gaurangbhatt19/orgs", "repos_url": "https://api.github.com/users/gaurangbhatt19/repos", "events_url": "https://api.github.com/users/gaurangbhatt19/events{/privacy}", "received_events_url": "https://api.github.com/users/gaurangbhatt19/received_events", "type": "User", "site_admin": false, "name": "Gaurang Bhatt", "company": null, "blog": "", "location": "Haridwar", "email": null, "hireable": null, "bio": "Web Development, IT Cloud Automation, and Cybersecurity enthusiast with a good hand on efficient coding methods and Data Structures.", "twitter_username": null, "public_repos": 65, "public_gists": 0, "followers": 0, "following": 0, "created_at": "2018-10-12T09:58:01Z", "updated_at": "2022-01-08T11:12:41Z"}
 Elapsed Time: 0:00:00.133479
 Result: Passed
+
+Total Pass: 1/1 Total Fail: 0/1
 ```
 ```javascript
 Threads = 2
@@ -128,6 +130,8 @@ Response: {"login": "gaurangbhatt19", "id": 44087367, "node_id": "MDQ6VXNlcjQ0MD
 "gravatar_id": "", "url": "https://api.github.com/users/gaurangbhatt19", "html_url": "https://github.com/gaurangbhatt19", "followers_url": "https://api.github.com/users/gaurangbhatt19/followers", "following_url": "https://api.github.com/users/gaurangbhatt19/following{/other_user}", "gists_url": "https://api.github.com/users/gaurangbhatt19/gists{/gist_id}", "starred_url": "https://api.github.com/users/gaurangbhatt19/starred{/owner}{/repo}", "subscriptions_url": "https://api.github.com/users/gaurangbhatt19/subscriptions", "organizations_url": "https://api.github.com/users/gaurangbhatt19/orgs", "repos_url": "https://api.github.com/users/gaurangbhatt19/repos", "events_url": "https://api.github.com/users/gaurangbhatt19/events{/privacy}", "received_events_url": "https://api.github.com/users/gaurangbhatt19/received_events", "type": "User", "site_admin": false, "name": "Gaurang Bhatt", "company": null, "blog": "", "location": "Haridwar", "email": null, "hireable": null, "bio": "Web Development, IT Cloud Automation, and Cybersecurity enthusiast with a good hand on efficient coding methods and Data Structures.", "twitter_username": null, "public_repos": 65, "public_gists": 0, "followers": 0, "following": 0, "created_at": "2018-10-12T09:58:01Z", "updated_at": "2022-01-08T11:12:41Z"}
 Elapsed Time: 0:00:00.123956
 Result: Passed
+
+Total Pass: 2/2 Total Fail: 0/2
 ```
 ## Download
 
