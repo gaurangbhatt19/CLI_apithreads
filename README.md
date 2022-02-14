@@ -129,7 +129,7 @@ Result: Passed
 
 Mac/Linux
 
-<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux_Mac/cli_apithreads.pyc" download>Download Mac/Linux File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux_Mac/" download>Download Mac/Linux File</a>
 
 Windows
 
