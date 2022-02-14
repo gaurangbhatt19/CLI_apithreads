@@ -35,6 +35,22 @@ To run this project, you will need to pass some arguments related to api
   value:"data_"${id}
 }
 ```
+## Installation
+
+`Windows`
+
+Download and use like .\cli_apithreads.exe
+
+`Mac/Linux`
+
+Download Mac_Linux, run command ```bash pip install -r requirements.txt```
+
+This would installthe required pakages
+
+Then use the cli app by typing `python cli_apithreads.pyc`
+
+
+You can add this app to ${PATH} or Environment Variables if you want to run from any folder.
 
 ## Syntax
 
@@ -113,11 +129,11 @@ Result: Passed
 
 Mac/Linux
 
-<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.pyc" download>Download Mac/Linux File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux_Mac/cli_apithreads.pyc" download>Download Mac/Linux File</a>
 
 Windows
 
-<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/cli_apithreads.exe" download>Download Windows File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Windows/cli_apithreads.exe" download>Download Windows File</a>
 
 ## Authors
 
