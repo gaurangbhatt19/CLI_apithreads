@@ -27,7 +27,7 @@ To run this project, you will need to pass some arguments related to api
 
 ## Enironment variables
 
-`${id}`: this is a unique id generator for any data in json or xml api body. Write ${id}in your json/xml that value would be  replaced by unique id in API request
+`${id}`: this is a unique id generator for any data in json or xml api body. Write ${id} in your json/xml that value would be  replaced by unique id in API request
 
 ```javascript
 {
@@ -66,7 +66,7 @@ GET method:
 
 Windows
 
-# cli_apithreads.exe -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
+# .\cli_apithreads.exe -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
 
 Mac/Linux
 
@@ -76,7 +76,7 @@ POST method:
 
 Windows
 
-# cli_apithreads.exe -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
+# .\cli_apithreads.exe -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
 
 Mac
 
