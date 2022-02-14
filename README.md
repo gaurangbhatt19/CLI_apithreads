@@ -50,7 +50,7 @@ To run this project, you will need to pass some arguments related to api
 ```
 ## Demo
 
- `Header.json (can use any file with *.json formatfor headers and *.json or *.xml file for API body )`
+ `Header.json (can use any file with *.json format for headers and *.json or *.xml file for API body )`
 
 ```json
 {
