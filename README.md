@@ -23,6 +23,19 @@ To run this project, you will need to pass some arguments related to api
 
 `-delay`: Add delay to API run value is in seconds. Default value is 0 .
 
+`-type`: Defines whether an API is JSON or XML. Expected values json or xml. Default value is json.
+
+## Enironment variables
+
+`${id}`: this is a unique id generator for any data in json or xml api body. Write ${id}in your json/xml that value would be  replaced by unique id in API request
+
+```javascript
+{
+  id:${id},
+  value:"data_"${id}
+}
+```
+
 ## Syntax
 
 
