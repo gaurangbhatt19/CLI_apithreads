@@ -42,7 +42,7 @@ To run this project, you will need to pass some arguments related to api
 ```bash
   For Windows:
 
- #   cli_apithreads.exe -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
+ #   .\cli_apithreads.exe -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
   
   For Mac/Linux:
   
