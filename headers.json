@@ -1,8 +1,0 @@
-{
-    "Content-Type":"application/xml",
-    "Connection": "keep-alive",
-    "X-Public": "8ffb88d3767e99e7cbc2767520f62ab5f7839562fda8f1f9d705da62bbbab56e",
-    "X-Hash": "b4b1705c6611af7d6af04292731dff45291edc17c4823cb46debd115d349b9ad",
-    "Host": "ptapi.grab.in",
-    "User-Agent": "Python"
-}
