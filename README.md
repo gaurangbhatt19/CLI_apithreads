@@ -43,12 +43,8 @@ Download and use like .\cli_apithreads.exe
 
 `Mac/Linux`
 
-Download Mac_Linux, run command `pip install -r requirements.txt`
+ Download and use the cli app by typing `./cli_apithreads`
 
-This would installthe required pakages
-
-Then use the cli app by typing `python cli_apithreads.pyc`
- 
  or 
 
 `git clone https://github.com/gaurangbhatt19/CLI_apithreads/tree/master/` then delete Windows folder
@@ -61,11 +57,11 @@ You can add this app to ${PATH} or Environment Variables if you want to run from
 ```bash
   For Windows:
 
- #   .\cli_apithreads.exe -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
+ #  .\cli_apithreads.exe -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
   
   For Mac/Linux:
   
- #   python cli_apithreads.pyc -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
+ #  ./cli_apithreads -method <POST or GET> -url <URL> -threads <Number of threads> -resCode <Expected response code for assertion> -headers <filepath headers> -body <filepath body> -delay <Delay Seconds>
 ```
 ## Demo
 
@@ -90,7 +86,7 @@ Windows
 
 Mac/Linux
 
-# python cli_apithreads.pyc -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
+# ./cli_apithreads -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
 
 POST method:
 
@@ -100,7 +96,7 @@ Windows
 
 Mac
 
-# python cli_apithreads.pyc -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
+# ./cli_apithreads -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
 
 ```
 ## App Results
@@ -137,7 +133,7 @@ Total Pass: 2/2 Total Fail: 0/2
 
 Mac/Linux
 
-<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux_Mac/" download>Download Mac/Linux File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux_Mac/cli_apithreads" download>Download Mac/Linux File</a>
 
 Windows
 
