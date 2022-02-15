@@ -43,7 +43,7 @@ Download and use like .\cli_apithreads.exe
 
 `Mac/Linux`
 
-Download Mac_Linux, run command ```bash pip install -r requirements.txt```
+Download Mac_Linux, run command `pip install -r requirements.txt`
 
 This would installthe required pakages
 
