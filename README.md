@@ -94,7 +94,7 @@ Windows
 
 # .\cli_apithreads.exe -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
 
-Mac
+Mac/Linux
 
 # ./cli_apithreads -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
 
