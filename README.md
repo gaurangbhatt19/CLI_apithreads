@@ -85,11 +85,11 @@ GET method:
 
 Windows
 
-# .\cli_apithreads.exe -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
+# .\cli_apithreads.exe -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers ./headers.json
 
 Mac/Linux
 
-# ./cli_apithreads -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers /headers.json
+# ./cli_apithreads -method GET -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -headers ./headers.json
 
 POST method:
 
@@ -99,7 +99,7 @@ Windows
 
 Mac/Linux
 
-# ./cli_apithreads -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData .\data.json -headers .\headers.json -delay 2
+# ./cli_apithreads -method POST -url https://api.github.com/users/gaurangbhatt19 -threads 4 -resCode 200 -bodyData ./data.json -headers ./headers.json -delay 2
 
 ```
 ## App Results
