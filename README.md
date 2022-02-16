@@ -45,10 +45,6 @@ Download and use like .\cli_apithreads.exe
 
  Download and use the cli app by typing `./cli_apithreads`
 
- or 
-
-`git clone https://github.com/gaurangbhatt19/CLI_apithreads/tree/master/` then delete Windows folder
-
 `Mac`
 
 Download Mac files `Content.zip`, de-compress and do `cd MacOS/` then run cli tool using `./cli_apithreads`
@@ -57,6 +53,7 @@ You can add this app to ${PATH} or Environment Variables if you want to run from
 
 Also Headers and Payload files can have any paths. Just define the path in -headers,-bodyData
 
+Also `git clone https://github.com/gaurangbhatt19/CLI_apithreads/tree/master/` then delete other folders
 ## Syntax
 
 
