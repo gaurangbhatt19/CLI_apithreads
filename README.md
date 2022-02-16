@@ -29,10 +29,11 @@ To run this project, you will need to pass some arguments related to api
 
 `${id}`: this is a unique id generator for any data in json or xml api body. Write ${id} in your json/xml that value would be  replaced by unique id in API request
 
+`data.json`
 ```javascript
 {
   id:${id},
-  value:"data_"${id}
+  value:"data_${id}"
 }
 ```
 ## Installation
