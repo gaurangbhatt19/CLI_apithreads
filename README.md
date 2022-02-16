@@ -41,7 +41,7 @@ To run this project, you will need to pass some arguments related to api
 
 Download and use like .\cli_apithreads.exe
 
-`Mac/Linux`
+`Linux`
 
  Download and use the cli app by typing `./cli_apithreads`
 
@@ -49,7 +49,13 @@ Download and use like .\cli_apithreads.exe
 
 `git clone https://github.com/gaurangbhatt19/CLI_apithreads/tree/master/` then delete Windows folder
 
+`Mac`
+
+Download Mac files `Content.zip`, de-compress and do `cd MacOS/` then run cli tool using `./cli_apithreads`
+
 You can add this app to ${PATH} or Environment Variables if you want to run from any folder.
+
+Also Headers and Payload files can have any paths. Just define the path in -headers,-bodyData
 
 ## Syntax
 
@@ -131,9 +137,13 @@ Total Pass: 2/2 Total Fail: 0/2
 ```
 ## Download
 
-Mac/Linux
+Linux
 
-<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux_Mac/cli_apithreads" download>Download Mac/Linux File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux/cli_apithreads" download>Download Linux File</a>
+
+Mac
+
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux/Contents.zip" download>Download Mac File</a>
 
 Windows
 
