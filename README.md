@@ -140,7 +140,7 @@ Linux
 
 Mac
 
-<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Linux/Contents.zip" download>Download Mac File</a>
+<a href="https://github.com/gaurangbhatt19/CLI_apithreads/blob/master/Mac/Contents.zip" download>Download Mac File</a>
 
 Windows
 
